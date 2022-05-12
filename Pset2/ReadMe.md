@@ -14,7 +14,7 @@
 
 # Introdução
 
-Este Pset tem como objetivo aprimorar nosso conhecimento sobre Algebra Relacional.
+Este Pset tem como objetivo aprimorar nosso conhecimento sobre Algebra Relacional de uma empresa imaginária.
 ---
 
 ## Questão 1
